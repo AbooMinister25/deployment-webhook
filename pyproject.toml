@@ -7,6 +7,8 @@ authors = [
 ]
 dependencies = [
     "bottle>=0.12.25",
+    "python-dotenv>=1.0.1",
+    "GitPython>=3.1.43",
 ]
 requires-python = ">=3.12"
 license = {text = "MIT"}
